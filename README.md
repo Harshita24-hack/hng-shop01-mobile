@@ -11,7 +11,7 @@ A Modern E-Commerce Platform with a **Web App** and an **Android App**, sharing 
 ## 🚀 Live Demo
 - 🌐 Web: https://hng-shop01-5no602juw-harshita-5b52.vercel.app/
 - 📱 APK Download: https://drive.google.com/file/d/1OsKtYLJhez0mogzkdJS8pweAoQ8-tgXJ/view?usp=drivesdk
-- 🎥 Demo Video: 
+- 🎥 Demo Video: https://drive.google.com/file/d/1fUqZTZ4etj0MKdZvfXyocbtX9-UKQl_m/view?usp=drive_link
 
 ## 🔗 Repositories
 | Part | Repo |
